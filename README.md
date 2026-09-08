@@ -1,42 +1,62 @@
 # GitHub Research
 
-Base de connaissances pour identifier, analyser et suivre les repositories GitHub utiles à l’écosystème HashCode / E-FLEX.
+> **Technology Intelligence Repository**
 
-## Axes actuels
+Veille, découverte, analyse et expérimentation de repositories et technologies émergentes.
 
-### AI-Augmented Development
+## Mission
 
-Top 10 des repositories pour comprendre et pratiquer le développement augmenté par l’IA.
+Ce repository ne cherche pas à devenir une collection de liens.
 
-[Consulter AI_AUGMENTED_DEVELOPMENT/TOP_10.md](AI_AUGMENTED_DEVELOPMENT/TOP_10.md)
+Son objectif est de transformer la découverte GitHub en **intelligence technologique exploitable** :
 
-Parcours prioritaire : OpenCode → MCP → OpenHands → LangGraph
+**Découvrir → Qualifier → Analyser → Expérimenter → Décider → Documenter**
 
-### Cybersécurité
+## Domaines
 
-Top 10 des repositories et ressources pour progresser en cybersécurité.
+### 🤖 AI
+- [AI Research](AI/README.md)
+- Coding Agents
+- Agent Frameworks
+- Agent Memory
+- Context Engineering
+- Multi-Agent Systems
+- Agent Skills
 
-[Consulter CYBERSECURITY/TOP_10.md](CYBERSECURITY/TOP_10.md)
+### 🌐 Web
+- [Web Research](WEB/README.md)
+- [Agentic Web](WEB/AGENTIC_WEB.md)
+- Browser Automation
+- AI-native Applications
 
-Parcours prioritaire : OWASP → Web Security → OSINT → Cloud Security → MITRE ATT&CK
+### 🔐 Cybersecurity
+- [Cybersecurity Top 10](CYBERSECURITY/TOP_10.md)
+- [AI Security](CYBERSECURITY/AI_SECURITY.md)
+- [Agentic Security](CYBERSECURITY/AGENTIC_SECURITY.md)
+- AppSec · Cloud Security · OSINT · DevSecOps
 
-## Méthode de recherche
+### 💎 Emerging Gems
+- [Emerging Gems](EMERGING_GEMS/README.md)
 
-Chaque repository retenu devra progressivement être évalué selon :
+### 👀 Watchlist
+- [High Priority](WATCHLIST/HIGH_PRIORITY.md)
 
-- activité et maintenance ;
-- architecture et technologies ;
-- maturité ;
-- niveau requis ;
-- documentation et ressources pédagogiques ;
-- sécurité et limites ;
-- intégration dans les workflows ;
-- cas d’usage réels ;
-- intérêt pour HashCode ;
-- décision : Étudier / Utiliser / Surveiller / Ignorer.
+### 🧪 Research Lab
+- [Research Lab](RESEARCH_LAB/README.md)
+- [Experiment Template](RESEARCH_LAB/EXPERIMENT_TEMPLATE.md)
+- [Failed Experiments](RESEARCH_LAB/FAILED_EXPERIMENTS.md)
 
-## Philosophie
+### 📏 Framework
+- [Repository Evaluation Framework](FRAMEWORK/REPOSITORY_EVALUATION.md)
 
-> 1 repository à la fois → comprendre → pratiquer → documenter → construire → évaluer.
+## Règle fondamentale
 
-Ce repository évoluera vers une veille technologique GitHub structurée, plutôt qu’une simple collection de liens.
+> **Un repository à la fois → comprendre → pratiquer → documenter → expérimenter → décider.**
+
+## Contribution
+
+Voir [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
+
+**Focus : AI Agents · Agentic Development · Agentic Web · Cybersecurity · AI Security · Cloud Security**
